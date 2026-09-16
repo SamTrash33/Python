@@ -1,3 +1,6 @@
+mkdir python_project
+cd python_project
+git init
 
 def fibonacci(n):
     a, b = 0, 1
